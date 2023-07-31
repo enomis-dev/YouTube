@@ -1,0 +1,251 @@
+ID,Country,Capital,Population
+0,American Samoa,Pago Pago,55197
+1,Peru,Lima,32971846
+2,Tonga,Nuku'alofa,105697
+3,Mayotte,Mamoudzou,226915
+4,Panama,Panama City,4314768
+5,Madagascar,Antananarivo,27691019
+6,Belgium,Brussels,11555997
+7,Central African Republic,Bangui,4829764
+8,Hungary,Budapest,9749763
+9,Mongolia,Ulan Bator,3278292
+10,Saudi Arabia,Riyadh,34813867
+11,Eswatini,Mbabane,1160164
+12,Uganda,Kampala,45741000
+13,Paraguay,Asunción,7132530
+14,Cameroon,Yaoundé,26545864
+15,France,Paris,67391582
+16,Togo,Lomé,8278737
+17,Mauritius,Port Louis,1265740
+18,Cook Islands,Avarua,18100
+19,Palau,Ngerulmud,18092
+20,Nepal,Kathmandu,29136808
+21,New Zealand,Wellington,5084300
+22,Pitcairn Islands,Adamstown,56
+23,Seychelles,Victoria,98462
+24,United Arab Emirates,Abu Dhabi,9890400
+25,Belarus,Minsk,9398861
+26,Dominican Republic,Santo Domingo,10847904
+27,Libya,Tripoli,6871287
+28,Tokelau,Fakaofo,1411
+29,Croatia,Zagreb,4047200
+30,Philippines,Manila,109581085
+31,Albania,Tirana,2837743
+32,Bouvet Island,N/A,0
+33,Indonesia,Jakarta,273523621
+34,Thailand,Bangkok,69799978
+35,Latvia,Riga,1901548
+36,Ecuador,Quito,17643060
+37,Kenya,Nairobi,53771300
+38,Liberia,Monrovia,5057677
+39,British Virgin Islands,Road Town,30237
+40,San Marino,City of San Marino,33938
+41,India,New Delhi,1380004385
+42,Bahrain,Manama,1701583
+43,Malawi,Lilongwe,19129955
+44,Iceland,Reykjavik,366425
+45,Brunei,Bandar Seri Begawan,437483
+46,French Guiana,Cayenne,254541
+47,Samoa,Apia,198410
+48,Georgia,Tbilisi,3714000
+49,Caribbean Netherlands,Kralendijk,25987
+50,Heard Island and McDonald Islands,N/A,0
+51,Papua New Guinea,Port Moresby,8947027
+52,Ghana,Accra,31072945
+53,Afghanistan,Kabul,40218234
+54,Costa Rica,San José,5094114
+55,Fiji,Suva,896444
+56,South Korea,Seoul,51780579
+57,Taiwan,Taipei,23503349
+58,Czechia,Prague,10698896
+59,Nicaragua,Managua,6624554
+60,Portugal,Lisbon,10305564
+61,Chile,Santiago,19116209
+62,Gambia,Banjul,2416664
+63,Belize,Belmopan,397621
+64,Maldives,Malé,540542
+65,Vanuatu,Port Vila,307150
+66,Malaysia,Kuala Lumpur,32365998
+67,Antigua and Barbuda,Saint John's,97928
+68,Iran,Tehran,83992953
+69,Russia,Moscow,144104080
+70,Kiribati,South Tarawa,119446
+71,Martinique,Fort-de-France,378243
+72,Bangladesh,Dhaka,164689383
+73,Armenia,Yerevan,2963234
+74,Mexico,Mexico City,128932753
+75,Estonia,Tallinn,1331057
+76,Oman,Muscat,5106622
+77,United States,"Washington, D.C.",329484123
+78,Liechtenstein,Vaduz,38137
+79,Bahamas,Nassau,393248
+80,Benin,Porto-Novo,12123198
+81,Kosovo,Pristina,1775378
+82,Tuvalu,Funafuti,11792
+83,Faroe Islands,Tórshavn,48865
+84,Cayman Islands,George Town,65720
+85,Egypt,Cairo,102334403
+86,Azerbaijan,Baku,10110116
+87,Australia,Canberra,25687041
+88,Isle of Man,Douglas,85032
+89,Ireland,Dublin,4994724
+90,Barbados,Bridgetown,287371
+91,El Salvador,San Salvador,6486201
+92,Guatemala,Guatemala City,16858333
+93,Japan,Tokyo,125836021
+94,Vietnam,Hanoi,97338583
+95,Northern Mariana Islands,Saipan,57557
+96,Lithuania,Vilnius,2794700
+97,Saint Lucia,Castries,183629
+98,Hong Kong,City of Victoria,7500700
+99,Angola,Luanda,32866268
+100,Mozambique,Maputo,31255435
+101,Botswana,Gaborone,2351625
+102,Germany,Berlin,83240525
+103,Syria,Damascus,17500657
+104,Moldova,Chișinău,2617820
+105,Saint Pierre and Miquelon,Saint-Pierre,6069
+106,Guernsey,St. Peter Port,62999
+107,Wallis and Futuna,Mata-Utu,11750
+108,Poland,Warsaw,37950802
+109,Trinidad and Tobago,Port of Spain,1399491
+110,British Indian Ocean Territory,Diego Garcia,3000
+111,Marshall Islands,Majuro,59194
+112,Austria,Vienna,8917205
+113,Kazakhstan,Nur-Sultan,18754440
+114,Aruba,Oranjestad,106766
+115,South Africa,Pretoria,59308690
+116,Denmark,Copenhagen,5831404
+117,Suriname,Paramaribo,586634
+118,Bermuda,Hamilton,63903
+119,Montserrat,Plymouth,4922
+120,Ivory Coast,Yamoussoukro,26378275
+121,Mauritania,Nouakchott,4649660
+122,Sierra Leone,Freetown,7976985
+123,Guinea,Conakry,13132792
+124,French Polynesia,Papeetē,280904
+125,Pakistan,Islamabad,220892331
+126,United States Minor Outlying Islands,Washington DC,300
+127,Lesotho,Maseru,2142252
+128,Senegal,Dakar,16743930
+129,Tajikistan,Dushanbe,9537642
+130,Switzerland,Bern,8654622
+131,Eritrea,Asmara,5352000
+132,French Southern and Antarctic Lands,Port-aux-Français,400
+133,Jersey,Saint Helier,100800
+134,Cambodia,Phnom Penh,16718971
+135,Saint Vincent and the Grenadines,Kingstown,110947
+136,Sint Maarten,Philipsburg,40812
+137,Vatican City,Vatican City,451
+138,Uruguay,Montevideo,3473727
+139,Western Sahara,El Aaiún,510713
+140,Cape Verde,Praia,555988
+141,Italy,Rome,59554023
+142,United Kingdom,London,67215293
+143,Macau,N/A,649342
+144,Guyana,Georgetown,786559
+145,Norway,Oslo,5379475
+146,New Caledonia,Nouméa,271960
+147,South Sudan,Juba,11193729
+148,Burkina Faso,Ouagadougou,20903278
+149,Guadeloupe,Basse-Terre,400132
+150,Lebanon,Beirut,6825442
+151,Saint Kitts and Nevis,Basseterre,53192
+152,Kuwait,Kuwait City,4270563
+153,South Georgia,King Edward Point,30
+154,Luxembourg,Luxembourg,632275
+155,Myanmar,Naypyidaw,54409794
+156,Israel,Jerusalem,9216900
+157,Turkmenistan,Ashgabat,6031187
+158,Greece,Athens,10715549
+159,Monaco,Monaco,39244
+160,Venezuela,Caracas,28435943
+161,Republic of the Congo,Brazzaville,5657000
+162,Spain,Madrid,47351567
+163,Norfolk Island,Kingston,2302
+164,Dominica,Roseau,71991
+165,Tunisia,Tunis,11818618
+166,Turkey,Ankara,84339067
+167,Colombia,Bogotá,50882884
+168,Comoros,Moroni,869595
+169,Solomon Islands,Honiara,686878
+170,Saint Barthélemy,Gustavia,4255
+171,Uzbekistan,Tashkent,34232050
+172,Palestine,Ramallah,4803269
+173,Antarctica,N/A,1000
+174,Cuba,Havana,11326616
+175,Gabon,Libreville,2225728
+176,Kyrgyzstan,Bishkek,6591600
+177,Micronesia,Palikir,115021
+178,Sweden,Stockholm,10353442
+179,Saint Martin,Marigot,38659
+180,Slovakia,Bratislava,5458827
+181,DR Congo,Kinshasa,108407721
+182,Montenegro,Podgorica,621718
+183,Gibraltar,Gibraltar,33691
+184,Somalia,Mogadishu,15893219
+185,Sri Lanka,Sri Jayawardenepura Kotte,21919000
+186,Cyprus,Nicosia,1207361
+187,Laos,Vientiane,7275556
+188,Morocco,Rabat,36910558
+189,Timor-Leste,Dili,1318442
+190,Yemen,Sana'a,29825968
+191,Falkland Islands,Stanley,2563
+192,Equatorial Guinea,Malabo,1402985
+193,Algeria,Algiers,44700000
+194,Zambia,Lusaka,18383956
+195,Serbia,Belgrade,6908224
+196,Andorra,Andorra la Vella,77265
+197,São Tomé and Príncipe,São Tomé,219161
+198,Djibouti,Djibouti,988002
+199,Bulgaria,Sofia,6927288
+200,United States Virgin Islands,Charlotte Amalie,106290
+201,Argentina,Buenos Aires,45376763
+202,Nigeria,Abuja,206139587
+203,Rwanda,Kigali,12952209
+204,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,53192
+205,Canada,Ottawa,38005238
+206,North Korea,Pyongyang,25778815
+207,Åland Islands,Mariehamn,29458
+208,North Macedonia,Skopje,2077132
+209,Netherlands,Amsterdam,16655799
+210,Niger,Niamey,24206636
+211,Singapore,Singapore,5685807
+212,Chad,N'Djamena,16425859
+213,Curaçao,Willemstad,155014
+214,Niue,Alofi,1470
+215,Guinea-Bissau,Bissau,1967998
+216,Nauru,Yaren,10834
+217,Zimbabwe,Harare,14862927
+218,China,Beijing,1402112000
+219,Christmas Island,Flying Fish Cove,2072
+220,Puerto Rico,San Juan,3194034
+221,Ethiopia,Addis Ababa,114963583
+222,Grenada,St. George's,112519
+223,Finland,Helsinki,5530719
+224,Turks and Caicos Islands,Cockburn Town,38718
+225,Burundi,Gitega,11890781
+226,Guam,Hagåtña,168783
+227,Jordan,Amman,10203140
+228,Mali,Bamako,20250834
+229,Ukraine,Kyiv,44134693
+230,Réunion,Saint-Denis,840974
+231,Svalbard and Jan Mayen,Longyearbyen,2562
+232,Cocos (Keeling) Islands,West Island,544
+233,Tanzania,Dodoma,59734213
+234,Qatar,Doha,2881060
+235,Brazil,Brasília,212559409
+236,Sudan,Khartoum,43849269
+237,Romania,Bucharest,19286123
+238,Anguilla,The Valley,13452
+239,Iraq,Baghdad,40222503
+240,Bhutan,Thimphu,771612
+241,Honduras,Tegucigalpa,9904608
+242,Namibia,Windhoek,2540916
+243,Slovenia,Ljubljana,2100126
+244,Haiti,Port-au-Prince,11402533
+245,Bosnia and Herzegovina,Sarajevo,3280815
+246,Greenland,Nuuk,56367
+247,Jamaica,Kingston,2961161
+248,Malta,Valletta,525285
+249,Bolivia,Sucre,11673029
