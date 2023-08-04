@@ -1,0 +1,1 @@
+INFLUX_TOKEN = "your_token"
