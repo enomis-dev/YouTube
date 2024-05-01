@@ -1,0 +1,25 @@
+# Use an official Python runtime as a parent image
+FROM ghcr.io/osgeo/gdal:ubuntu-small-latest
+
+# The environment variable ensures that the python output is set straight
+# to the terminal without buffering it first
+ENV PYTHONUNBUFFERED=1
+
+# Set the working directory in the container to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+COPY . /app
+
+# Update the package lists for upgrades for security purposes
+RUN apt-get update -y
+
+# Install pip for Python 3
+RUN apt-get install -y python3-pip && apt-get install -y libgl1-mesa-glx
+
+# Install Python dependencies
+RUN pip install --upgrade pip wheel
+RUN pip install GDAL==$(gdal-config --version)
+
+# Install any needed packages specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
