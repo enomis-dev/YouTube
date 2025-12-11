@@ -3,3 +3,14 @@ geoenv
 python
 steps
 sam3
+Sign-language-digits-dataset
+.vscode
+best_model.pth
+sign_digit_model.pth
+results_hand_digits
+yolov8n.pt
+checkpoints
+american-sign-language/output
+american-sign-language-dataset/
+american-sign-language/best_checkpoint.pth
+checkpoints_grouped/
