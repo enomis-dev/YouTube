@@ -140,19 +140,38 @@ picam2.configure(video_config)
 picam2.start()
 time.sleep(2)  # camera warm-up
 
+prev_time = time.time()
+
 try:
     while True:
         frame = picam2.capture_array()
-        
+
         # Run detection
         detections = model(frame)
-        
+
         # Draw results
         annotated = model.plot(frame, detections)
-        
+
+        # ---- FPS calculation ----
+        current_time = time.time()
+        fps = 1 / (current_time - prev_time)
+        prev_time = current_time
+
+        # Put FPS text on frame
+        cv2.putText(
+            annotated,
+            f"FPS: {fps:.2f}",
+            (10, 30),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            1,
+            (0, 255, 0),
+            2,
+            cv2.LINE_AA,
+        )
+
         # Show
         cv2.imshow("YOLO Detection", annotated)
-        
+
         if cv2.waitKey(1) & 0xFF == ord("q"):
             break
 
